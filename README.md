@@ -1,10 +1,14 @@
-### Hi there 👋
+### Hola a todos mi nombre es Denis👋
+
+## Mis estádisticas son:
+
+[! [Estadísticas de GitHub de Anurag] (https://github-readme-stats.vercel.app/api ? Username = Denis-Yen )] (https://github.com/anuraghazra/github-readme-stats)
 
 <!--
 **Denis-Yen/Denis-Yen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
-
+ 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
 - 👯 I’m looking to collaborate on ...
