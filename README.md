@@ -1,6 +1,6 @@
 ### Hola a todos mi nombre es Denis 👋
 
-## Mis estádisticas son:
+## Mis estádisticas:
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Denis-Yen&show_icons=true&theme=tokyonight)
 
