@@ -2,6 +2,6 @@
 
 ## Mis estádisticas son:
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?=Denis-Yen&show_icons=true&theme=radical)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Denis-Yen&show_icons=true&theme=radical)
 
 
