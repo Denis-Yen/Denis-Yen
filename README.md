@@ -20,3 +20,10 @@
 
 [stata]:https://www.stata.com/
 
+- ⚡ Análisis de datos en sql [<img aling="left" alt = "sql" width="22px" src="https://user-images.githubusercontent.com/61916155/117527203-ec9f9e80-af8f-11eb-845b-971fd5f98956.png"/>][sql]
+
+[sql]:https://www.microsoft.com/
+
+- ⚡ Análisis de datos con spark [<img aling="left" alt = "spark" width="50px" src="https://user-images.githubusercontent.com/61916155/117527279-66d02300-af90-11eb-9fa5-f2b676675577.png"/>][sql]
+
+[spark]:https://spark.apache.org/
