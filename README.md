@@ -24,6 +24,18 @@
 
 [sql]:https://www.microsoft.com/
 
-- ⚡ Análisis de datos con spark [<img aling="left" alt = "spark" width="50px" src="https://user-images.githubusercontent.com/61916155/117527279-66d02300-af90-11eb-9fa5-f2b676675577.png"/>][sql]
+- ⚡ Análisis de datos con spark [<img aling="left" alt = "spark" width="50px" src="https://user-images.githubusercontent.com/61916155/117527279-66d02300-af90-11eb-9fa5-f2b676675577.png"/>][spark]
 
 [spark]:https://spark.apache.org/
+
+- ⚡ Gestión de datos con mongodb [<img aling="left" alt = "mongodb" width="30px" src="https://user-images.githubusercontent.com/61916155/117527385-3ccb3080-af91-11eb-8bd0-8f77ac357d26.png"/>][mongodb]
+
+[mongodb]:https://www.mongodb.com/
+
+
+
+
+
+
+
+
