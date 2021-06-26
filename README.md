@@ -2,7 +2,7 @@
 Soy economista egresado de la Universidad Nacional Federico Villareal 🇵🇪, con solidos conocimientos en estadística, probabilidad, econometría, apasionado por el análisis de datos, buscador 🛰️ de patrones y ["cisnes negros"](https://es.wikipedia.org/wiki/Teoría_del_cisne_negro)  del mundo real 📡.
 
 >*Actualmente trabajo en un algoritmo que pueda reemplazarme ergo*<br>
-> salvarme de mi mismo 🙇‍♂️
+> salvarme de mí mismo 🙇‍♂️
 ## Mis estádisticas:
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Denis-Yen&show_icons=true&theme=tokyonight)
