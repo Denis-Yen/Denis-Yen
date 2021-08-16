@@ -31,7 +31,7 @@ Soy economista egresado de la Universidad Nacional Federico Villareal 🇵🇪, 
 
 [spark]:https://spark.apache.org/
 
-- ⚡ Gestión de datos con [<img aling="left" alt = "mongodb" width="30px" src="https://user-images.githubusercontent.com/61916155/117527385-3ccb3080-af91-11eb-8bd0-8f77ac357d26.png"/>][mongodb]
+- ⚡ Base de datos NOSQL [<img aling="left" alt = "mongodb" width="30px" src="https://user-images.githubusercontent.com/61916155/117527385-3ccb3080-af91-11eb-8bd0-8f77ac357d26.png"/>][mongodb]
 
 [mongodb]:https://www.mongodb.com/
 
