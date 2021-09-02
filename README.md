@@ -11,7 +11,7 @@ Soy economista egresado de la Universidad Nacional Federico Villareal 🇵🇪, 
 [![Website](https://img.shields.io/website?style=plastic&up_color=green&up_message=Visitar&url=https%3A%2F%2Fgithub.com%2FQuantumanAnalitycs)](https://github.com/QuantumanAnalitycs)
 
 ## Me encanta el:
-- ⚡ Análisis de datos con [<img aling ="left" alt = "R" width="22px" src="https://user-images.githubusercontent.com/61916155/117524993-dc82c180-af85-11eb-829e-b1692d38aecf.png"/>][R]
+- ⚡ Análisis de datos con [<img aling ="left" alt = "R" width="22px" src="https://user-images.githubusercontent.com/61916155/117524993-dc82c180-af85-11eb-829e-b1692d38aecf.png"/>][R] Studio.
 
 [R]:https://www.r-project.org/
 
