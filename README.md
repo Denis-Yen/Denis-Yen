@@ -1,5 +1,5 @@
 ### Hola a todos mi nombre es Denis Yen RC 👋
-Soy economista egresado de la Universidad Nacional Federico Villareal 🇵🇪, con solidos conocimientos en estadística, probabilidad, econometría, apasionado por el análisis de datos, buscador 🛰️ de patrones y ["cisnes negros"](https://es.wikipedia.org/wiki/Teoría_del_cisne_negro)  del mundo real 📡.
+Soy economista bachiller de la Universidad Nacional Federico Villareal 🇵🇪, con solidos conocimientos en estadística, probabilidad, econometría, apasionado por el análisis de datos, buscador 🛰️ de patrones y ["cisnes negros"](https://es.wikipedia.org/wiki/Teoría_del_cisne_negro)  del mundo real 📡.
 
 >*Actualmente trabajo en un algoritmo que pueda reemplazarme ergo*<br>
 >*salvarme de mí mismo*🙇‍♂️
