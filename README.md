@@ -7,6 +7,7 @@ Soy economista bachiller de la Universidad Nacional Federico Villareal 🇵🇪,
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Denis-Yen&show_icons=true&theme=tokyonight)
 <code><img height="200" src = "https://github-readme-stats.vercel.app/api/top-langs?username=Denis-Yen&show_icons=true&theme=tokyonight"></code>
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra&show_icons=true&theme=transparent)
 
 [![Website](https://img.shields.io/website?style=plastic&up_color=green&up_message=Visitar&url=https%3A%2F%2Fgithub.com%2FQuantumanAnalitycs)](https://github.com/QuantumanAnalitycs)
 
