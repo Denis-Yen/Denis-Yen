@@ -1,4 +1,7 @@
-### Hola a todos mi nombre es Denis Yen RC 👋
+<p align="center"><a href="https://anuraghazra.github.io"><img width="80%" alt="Hello, I'm Anurag. I do open source!" src="https://github.com/Denis-Yen/DataCleaning/blob/main/Recursos/13.jpg" /></a></p>
+
+<br />
+
 Soy economista bachiller de la Universidad Nacional Federico Villareal 🇵🇪, con solidos conocimientos en estadística, probabilidad, econometría, apasionado por el análisis de datos, buscador 🛰️ de patrones y ["cisnes negros"](https://es.wikipedia.org/wiki/Teoría_del_cisne_negro)  del mundo real 📡.
 
 >*Actualmente trabajo en un algoritmo que pueda reemplazarme ergo*<br>
