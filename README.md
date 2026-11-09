@@ -7,19 +7,7 @@ Soy economista de la Universidad Nacional Federico Villareal 🇵🇪, con solid
 >*Actualmente trabajo en un algoritmo que pueda reemplazarme ergo*<br>
 >*salvarme de mí mismo*🙇‍♂️
 
-[![Website](https://img.shields.io/website?style=plastic&up_color=green&up_message=Visitar&url=https%3A%2F%2Fgithub.com%2FQuantumanAnalitycs)]([https://github.com/QuantumanAnalitycs](https://denis-rodriguez.com/))
-
-#### Repositorios Top
-
-<a href="https://github.com/Denis-Yen/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Denis-Yen&repo=DataScience&theme=transparent" />
-</a>
-<a href="https://github.com/anuraghazra/anuraghazra.github.io">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Denis-Yen&repo=DataCleaning&theme=transparent" />
-</a>
-<a href="https://github.com/anuraghazra/anuraghazra.github.io">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Denis-Yen&repo=bot.booking&theme=transparent" />
-</a>
+[![Website](https://img.shields.io/website?style=plastic&up_color=green&up_message=Visitar&url=https%3A%2F%2Fgithub.com%2FQuantumanAnalitycs)](https://denis-rodriguez.com/)
 
 ## Me encanta el:
 - ⚡ Análisis de datos con [<img aling ="left" alt = "R" width="22px" src="https://user-images.githubusercontent.com/61916155/117524993-dc82c180-af85-11eb-829e-b1692d38aecf.png"/>][R] Studio.
