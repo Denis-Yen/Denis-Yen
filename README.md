@@ -6,17 +6,10 @@ Soy economista de la Universidad Nacional Federico Villareal 🇵🇪, con solid
 
 >*Actualmente trabajo en un algoritmo que pueda reemplazarme ergo*<br>
 >*salvarme de mí mismo*🙇‍♂️
-## Mis estádisticas:
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Denis-Yen&show_icons=true&theme=transparent&layout=compact)
-<code><img height="200" src = "https://github-readme-stats.vercel.app/api/top-langs/?username=Denis-Yen&theme=transparent"></code>
-
-
-
-[![Website](https://img.shields.io/website?style=plastic&up_color=green&up_message=Visitar&url=https%3A%2F%2Fgithub.com%2FQuantumanAnalitycs)](https://github.com/QuantumanAnalitycs)
+[![Website](https://img.shields.io/website?style=plastic&up_color=green&up_message=Visitar&url=https%3A%2F%2Fgithub.com%2FQuantumanAnalitycs)]([https://github.com/QuantumanAnalitycs](https://denis-rodriguez.com/))
 
 #### Repositorios Top
-
 
 <a href="https://github.com/Denis-Yen/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=Denis-Yen&repo=DataScience&theme=transparent" />
